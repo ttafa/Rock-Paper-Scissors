@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Projects\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+C:\Users\Administrator\Desktop\Projects\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+C:\Users\Administrator\Desktop\Projects\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+C:\Users\Administrator\Desktop\Projects\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+C:\Users\Administrator\Desktop\Projects\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
